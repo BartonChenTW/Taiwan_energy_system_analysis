@@ -1,6 +1,8 @@
-# PyPSA-Taiwan
+# Taiwan energy system analysis
 
-data source: https://data.gov.tw/dataset/37331
+This is the place to put some codes and data for Taiwan energy system analysis.
 
-some of the wind data are missing (NAN), and then replace by 'zero'
 
+
+Data sharing:
+ - Taiwan electricity generation and demand data, 2017 January - 2022 July https://zenodo.org/record/7537890#.Y8nQo3bLeCo
